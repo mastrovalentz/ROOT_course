@@ -1,0 +1,4 @@
+.x TH1toTxt.cc (hSim, "hSimout.txt")
+.x TH1toTxt.cc (hAll, "hAllout.txt")
+.x TH1toTxt.cc (hSel, "hSelout.txt")
+.x TH1toTxt.cc (hRec, "hRecout.txt")
