@@ -1,0 +1,48 @@
+************ PRIMA DEI FIT ************
+SigLife: 0.044
+ResoMean : 0 Resolution : 0.00161
+PMean : 0 PWidth : 0.005
+RFrac : 0.5 QFrac : 0.5
+BFrac : 0.5 PFrac : 0.5
+RBkgComb : 0.031 QBkgComb : 0.002
+LBkgComb : 0.001
+widt1 : 0.0119586 widt2 : 0.0277003
+rmass : 5.3668 gfrac : 0.629224
+coef1 : -0.330072 coef2 : 0.0275443
+SigNum : 6808.37 BkgNum : 22995.5
+************ DOPO FIT R2 ************
+SigLife: 0.044
+ResoMean : 0 Resolution : 0.00157355
+PMean : 0.00122344 PWidth : 0.005
+RFrac : 0.369807 QFrac : 0.5
+BFrac : 0.488862 PFrac : 0.5
+RBkgComb : 0.0420048 QBkgComb : 0.00430378
+LBkgComb : 0.001
+widt1 : 0.0119586 widt2 : 0.0277003
+rmass : 5.3668 gfrac : 0.629224
+coef1 : -0.330072 coef2 : 0.0275443
+SigNum : 6808.37 BkgNum : 22995.5
+************ DOPO FIT BKG ************
+SigLife: 0.044
+ResoMean : 0 Resolution : 0.00091909
+PMean : 0.00123521 PWidth : 0.005
+RFrac : 0.259924 QFrac : 0.631291
+BFrac : 0.662518 PFrac : 0.5
+RBkgComb : 0.0420048 QBkgComb : 0.00430378
+LBkgComb : 0.00206446
+widt1 : 0.0119586 widt2 : 0.0277003
+rmass : 5.3668 gfrac : 0.629224
+coef1 : -0.330072 coef2 : 0.0275443
+SigNum : 6808.37 BkgNum : 22995.5
+************ DOPO FIT FINALE ************
+SigLife: 0.0426675
+ResoMean : 0 Resolution : 0.00091909
+PMean : 0.00123969 PWidth : 0.005
+RFrac : 0.259924 QFrac : 0.631291
+BFrac : 0.662518 PFrac : 0.5
+RBkgComb : 0.0420048 QBkgComb : 0.00430378
+LBkgComb : 0.00206446
+widt1 : 0.0119586 widt2 : 0.0277003
+rmass : 5.3668 gfrac : 0.629224
+coef1 : -0.330072 coef2 : 0.0275443
+SigNum : 6929.56 BkgNum : 22874.3
