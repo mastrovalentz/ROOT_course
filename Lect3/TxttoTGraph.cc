@@ -5,6 +5,7 @@ void TxttoTGraph (string name) {
 	gr->Draw();
 	c->Draw();
 	c->Print((name+".png").c_str());
+	cout<<"converted file "<<name<<endl;
 }
 
 //to execute in batch
